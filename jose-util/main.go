@@ -21,7 +21,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/square/go-jose"
+	"github.com/WatchBeam/go-jose"
 	"gopkg.in/alecthomas/kingpin.v2"
 )
 

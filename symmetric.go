@@ -28,7 +28,7 @@ import (
 	"hash"
 	"io"
 
-	"github.com/square/go-jose/cipher"
+	"github.com/WatchBeam/go-jose/cipher"
 )
 
 // Random reader (stubbed out in tests)

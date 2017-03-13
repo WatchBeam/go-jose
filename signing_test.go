@@ -25,7 +25,7 @@ import (
 	"io"
 	"testing"
 
-	"github.com/square/go-jose/json"
+	"github.com/WatchBeam/go-jose/json"
 )
 
 type staticNonceSource string
