@@ -26,7 +26,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/WatchBeam/go-jose/json"
+	"github.com/mixer/go-jose/json"
 )
 
 type staticNonceSource string

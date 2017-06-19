@@ -26,8 +26,8 @@ import (
 	"crypto/x509"
 	"encoding/pem"
 
-	"github.com/WatchBeam/go-jose"
-	"github.com/WatchBeam/go-jose/jwt"
+	"github.com/mixer/go-jose"
+	"github.com/mixer/go-jose/jwt"
 )
 
 var sharedKey = []byte("secret")

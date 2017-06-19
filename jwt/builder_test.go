@@ -33,7 +33,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/WatchBeam/go-jose"
+	"github.com/mixer/go-jose"
 )
 
 type testClaims struct {

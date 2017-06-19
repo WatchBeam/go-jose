@@ -21,7 +21,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/WatchBeam/go-jose/json"
+	"github.com/mixer/go-jose/json"
 
 	"github.com/stretchr/testify/assert"
 )

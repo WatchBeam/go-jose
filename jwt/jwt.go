@@ -20,8 +20,8 @@ package jwt
 import (
 	"strings"
 
-	"github.com/WatchBeam/go-jose"
-	"github.com/WatchBeam/go-jose/json"
+	"github.com/mixer/go-jose"
+	"github.com/mixer/go-jose/json"
 )
 
 // JSONWebToken represents a JSON Web Token (as specified in RFC7519).

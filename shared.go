@@ -21,7 +21,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/WatchBeam/go-jose/json"
+	"github.com/mixer/go-jose/json"
 )
 
 // KeyAlgorithm represents a key management algorithm.
